@@ -590,7 +590,6 @@ Every skill is grounded in one or more psychology patterns:
 - Skills are **activatable during each phase**, not retroactively
 - Each skill = 1000–2000 words of tactical content
 - All skills cross-linked by dependency
-- Dog grooming (WashDog) used as anchoring example throughout
 - **No emoji in production** — use real icon libraries only
 
 **Created**: 2026-06-04  
